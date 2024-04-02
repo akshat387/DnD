@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DnD/static/css/main.cbd5c0e7.css",
+    "main.js": "/DnD/static/js/main.7c055ed3.js",
+    "index.html": "/DnD/index.html",
+    "main.cbd5c0e7.css.map": "/DnD/static/css/main.cbd5c0e7.css.map",
+    "main.7c055ed3.js.map": "/DnD/static/js/main.7c055ed3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbd5c0e7.css",
+    "static/js/main.7c055ed3.js"
+  ]
+}
